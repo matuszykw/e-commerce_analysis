@@ -6,4 +6,4 @@ Olist, a Brazilian e-commerce store that sells a wide range of products. The goa
 ## Data
 You can find sql schema with data [here](https://www.kaggle.com)
 
-![Database schema](https://imgur.com/a/ZODfGEw)
+![Database schema](./olist.png)
