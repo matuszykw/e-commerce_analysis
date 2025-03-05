@@ -7,8 +7,13 @@ The dataset used in this project contains over 100k rows of from 2016 to 2018, b
 ## Data
 You can find sql schema file with data [here](https://www.kaggle.com)
 
-![Database schema](./olist.png)
+![Database schema](./img/olist.png)
 
 ## Analysis
 ### Sales trends
 - Olist averages R$8 milion in annual sales with 50 000 orders per year
+- Sales and orders surged from mid-2017, with Black Friday 2017 driving record sales.
+- AOV remains stable (R$ 150–170) with minor variations.
+
+
+![](./img/dashboard.png)
