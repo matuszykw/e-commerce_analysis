@@ -1,5 +1,4 @@
 -- changing product category name to english names
-
 SELECT p.product_id, p.product_category_name, t.product_category_name_english
 FROM olist_products_dataset p
 JOIN product_category_name_translation t
